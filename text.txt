@@ -1,0 +1,72 @@
+Perfect ✅ — based on your **CV (Tiako Loic Verlin)** and your expertise in **web development, blogging, and digital marketing**, here’s a **professional and engaging copywriting draft** for your **portfolio website**.
+It’s optimized for clarity, conversion, and SEO with a focus on **Web Development** and your complementary skills.
+
+---
+
+## 🏠 **Home / Hero Section**
+
+**Hi, I’m Tiako Loic Verlin — Web Developer & Digital Marketer**
+I build functional, responsive, and visually appealing websites that help businesses grow online.
+Whether you’re a startup, a small business, or a personal brand, I create websites that don’t just look great — they perform.
+
+**💡 Let’s build something powerful together.**
+[📩 Contact Me] [🌐 View My Work]
+
+---
+
+## 👨‍💻 **About Section**
+
+I’m a passionate **Web Developer** from Cameroon with a strong foundation in front-end and back-end technologies like **HTML, CSS, JavaScript, PHP, and WordPress**.
+After obtaining a **DQP in Web Development** from *Seed Digital School* and a **certificate in Inbound Marketing** from *HubSpot Academy*, I’ve dedicated my career to crafting digital experiences that blend creativity and functionality.
+
+When I’m not coding, I create educational content on my blog [Kamer Apps](https://kamer-apps.cm), where I share tutorials, marketing insights, and tech trends to help others in Africa grow in the digital space.
+
+---
+
+## 🧠 **Skills Section**
+
+### Technical Skills
+
+* HTML5, CSS3, JavaScript, Bootstrap, PHP
+* WordPress Development
+* Website Maintenance & Optimization
+* Responsive Design
+
+### Marketing & Content
+
+* Facebook Ads & Google Ads Campaigns
+* Blogging & SEO Copywriting
+* Digital Strategy & Community Management
+
+---
+
+## 💼 **Services Section**
+
+### 🔧 Web Development
+
+Custom websites built with clean code, modern design, and full responsiveness.
+
+### 📈 Digital Marketing
+
+Ad campaigns and strategies to help your business grow online.
+
+### 📰 Content Creation
+
+Blog and social media content that attracts and retains your audience.
+
+### 🎨 Graphic Design
+
+Logos, flyers, and branding visuals to elevate your business identity.
+
+---
+
+## 📬 **Contact Section**
+
+Let’s bring your ideas to life.
+📩 **Email:** [fhutiako@gmail.com](mailto:fhutiako@gmail.com)
+📞 **Phone:** +237 690 10 45 64
+📍 **Location:** Yaoundé, Cameroon
+
+---
+
+Would you like me to make this **more minimalist and modern** (for a portfolio built in HTML/Bootstrap), or **more conversational and personal** (for a blog-style site)?
